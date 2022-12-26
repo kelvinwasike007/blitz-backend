@@ -1,1 +1,3 @@
 API BASED BACKEND
+
+/auth
